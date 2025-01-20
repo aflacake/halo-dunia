@@ -1,5 +1,9 @@
 <?php
   #kode as (" ");
- file_get_contents(include_path, "halo-dunia/kode/");
+ file_get_contents(
+   include_path,
+     bool $use_include_path=false,
+   #"halo-dunia/kode/"
+   string $());
  echo(file_get_contents());
 ?>
