@@ -4,6 +4,7 @@
    include_path,
      bool $file_use_include_path=false,
    #"halo-dunia/kode/"
-   string $filename());
+   string $filename()
+   $context=null);
  echo(file_get_contents());
 ?>
