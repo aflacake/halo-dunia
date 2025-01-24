@@ -4,4 +4,6 @@ Tidak hanya sebatas pengkodean berisi kata dasar `print()`, `echo()`, dan `<p></
 
 # Membuka file
 1. Buka ekstensi pembaca program PHP
+1. Direktori `get/file/data.php`
+   > manual tersedia, ke direktori `get/file/manual/data.php`
 1. Jalankan perintahnya
